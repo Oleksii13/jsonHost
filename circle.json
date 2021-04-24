@@ -1,0 +1,1197 @@
+﻿{
+  "Cost": [
+    {
+      "Date": "Feb 14, 2021",
+      "Source / Medium": "Bing",
+      "Cost": "64"
+    },
+    {
+      "Date": "Feb 14, 2021",
+      "Source / Medium": "Facebook",
+      "Cost": "433"
+    },
+    {
+      "Date": "Feb 14, 2021",
+      "Source / Medium": "Google",
+      "Cost": "371"
+    },
+    {
+      "Date": "Feb 14, 2021",
+      "Source / Medium": "LinkedIn",
+      "Cost": "208"
+    },
+    {
+      "Date": "Feb 15, 2021",
+      "Source / Medium": "Bing",
+      "Cost": "69"
+    },
+    {
+      "Date": "Feb 15, 2021",
+      "Source / Medium": "Facebook",
+      "Cost": "502"
+    },
+    {
+      "Date": "Feb 15, 2021",
+      "Source / Medium": "Google",
+      "Cost": "462"
+    },
+    {
+      "Date": "Feb 15, 2021",
+      "Source / Medium": "LinkedIn",
+      "Cost": "173"
+    },
+    {
+      "Date": "Feb 16, 2021",
+      "Source / Medium": "Bing",
+      "Cost": "67"
+    },
+    {
+      "Date": "Feb 16, 2021",
+      "Source / Medium": "Facebook",
+      "Cost": "521"
+    },
+    {
+      "Date": "Feb 16, 2021",
+      "Source / Medium": "Google",
+      "Cost": "358"
+    },
+    {
+      "Date": "Feb 16, 2021",
+      "Source / Medium": "LinkedIn",
+      "Cost": "166"
+    },
+    {
+      "Date": "Feb 17, 2021",
+      "Source / Medium": "Bing",
+      "Cost": "73"
+    },
+    {
+      "Date": "Feb 17, 2021",
+      "Source / Medium": "Facebook",
+      "Cost": "523"
+    },
+    {
+      "Date": "Feb 17, 2021",
+      "Source / Medium": "Google",
+      "Cost": "350"
+    },
+    {
+      "Date": "Feb 17, 2021",
+      "Source / Medium": "LinkedIn",
+      "Cost": "187"
+    },
+    {
+      "Date": "Feb 18, 2021",
+      "Source / Medium": "Bing",
+      "Cost": "253"
+    },
+    {
+      "Date": "Feb 18, 2021",
+      "Source / Medium": "Facebook",
+      "Cost": "559"
+    },
+    {
+      "Date": "Feb 18, 2021",
+      "Source / Medium": "Google",
+      "Cost": "438"
+    },
+    {
+      "Date": "Feb 18, 2021",
+      "Source / Medium": "LinkedIn",
+      "Cost": "202"
+    },
+    {
+      "Date": "Feb 19, 2021",
+      "Source / Medium": "Bing",
+      "Cost": "276"
+    },
+    {
+      "Date": "Feb 19, 2021",
+      "Source / Medium": "Facebook",
+      "Cost": "500"
+    },
+    {
+      "Date": "Feb 19, 2021",
+      "Source / Medium": "Google",
+      "Cost": "401"
+    },
+    {
+      "Date": "Feb 19, 2021",
+      "Source / Medium": "LinkedIn",
+      "Cost": "186"
+    },
+    {
+      "Date": "Feb 20, 2021",
+      "Source / Medium": "Bing",
+      "Cost": "247"
+    },
+    {
+      "Date": "Feb 20, 2021",
+      "Source / Medium": "Facebook",
+      "Cost": "196"
+    },
+    {
+      "Date": "Feb 20, 2021",
+      "Source / Medium": "Google",
+      "Cost": "237"
+    },
+    {
+      "Date": "Feb 20, 2021",
+      "Source / Medium": "LinkedIn",
+      "Cost": "175"
+    },
+    {
+      "Date": "Feb 21, 2021",
+      "Source / Medium": "Bing",
+      "Cost": "257"
+    },
+    {
+      "Date": "Feb 21, 2021",
+      "Source / Medium": "Facebook",
+      "Cost": "151"
+    },
+    {
+      "Date": "Feb 21, 2021",
+      "Source / Medium": "Google",
+      "Cost": "246"
+    },
+    {
+      "Date": "Feb 21, 2021",
+      "Source / Medium": "LinkedIn",
+      "Cost": "170"
+    },
+    {
+      "Date": "Feb 22, 2021",
+      "Source / Medium": "Bing",
+      "Cost": "242"
+    },
+    {
+      "Date": "Feb 22, 2021",
+      "Source / Medium": "Facebook",
+      "Cost": "239"
+    },
+    {
+      "Date": "Feb 22, 2021",
+      "Source / Medium": "Google",
+      "Cost": "409"
+    },
+    {
+      "Date": "Feb 22, 2021",
+      "Source / Medium": "LinkedIn",
+      "Cost": "257"
+    },
+    {
+      "Date": "Feb 23, 2021",
+      "Source / Medium": "Bing",
+      "Cost": "135"
+    },
+    {
+      "Date": "Feb 23, 2021",
+      "Source / Medium": "Facebook",
+      "Cost": "232"
+    },
+    {
+      "Date": "Feb 23, 2021",
+      "Source / Medium": "Google",
+      "Cost": "352"
+    },
+    {
+      "Date": "Feb 23, 2021",
+      "Source / Medium": "LinkedIn",
+      "Cost": "200"
+    },
+    {
+      "Date": "Feb 24, 2021",
+      "Source / Medium": "Bing",
+      "Cost": "24"
+    },
+    {
+      "Date": "Feb 24, 2021",
+      "Source / Medium": "Facebook",
+      "Cost": "225"
+    },
+    {
+      "Date": "Feb 24, 2021",
+      "Source / Medium": "Google",
+      "Cost": "331"
+    },
+    {
+      "Date": "Feb 24, 2021",
+      "Source / Medium": "LinkedIn",
+      "Cost": "160"
+    },
+    {
+      "Date": "Feb 25, 2021",
+      "Source / Medium": "Bing",
+      "Cost": "20"
+    },
+    {
+      "Date": "Feb 25, 2021",
+      "Source / Medium": "Facebook",
+      "Cost": "239"
+    },
+    {
+      "Date": "Feb 25, 2021",
+      "Source / Medium": "Google",
+      "Cost": "356"
+    },
+    {
+      "Date": "Feb 25, 2021",
+      "Source / Medium": "LinkedIn",
+      "Cost": "226"
+    },
+    {
+      "Date": "Feb 26, 2021",
+      "Source / Medium": "Bing",
+      "Cost": "60"
+    },
+    {
+      "Date": "Feb 26, 2021",
+      "Source / Medium": "Facebook",
+      "Cost": "217"
+    },
+    {
+      "Date": "Feb 26, 2021",
+      "Source / Medium": "Google",
+      "Cost": "213"
+    },
+    {
+      "Date": "Feb 26, 2021",
+      "Source / Medium": "LinkedIn",
+      "Cost": "337"
+    },
+    {
+      "Date": "Feb 27, 2021",
+      "Source / Medium": "LinkedIn",
+      "Cost": "179"
+    },
+    {
+      "Date": "Feb 27, 2021",
+      "Source / Medium": "Bing",
+      "Cost": "32"
+    },
+    {
+      "Date": "Feb 27, 2021",
+      "Source / Medium": "Facebook",
+      "Cost": "174"
+    },
+    {
+      "Date": "Feb 27, 2021",
+      "Source / Medium": "Google",
+      "Cost": "201"
+    }
+  ],
+  "Revenue": [
+    {
+      "Date": "Feb 14, 2021",
+      "Source / Medium": "Bing",
+      "Revenue": "119"
+    },
+    {
+      "Date": "Feb 14, 2021",
+      "Source / Medium": "Facebook",
+      "Revenue": "109"
+    },
+    {
+      "Date": "Feb 14, 2021",
+      "Source / Medium": "LinkedIn",
+      "Revenue": "150"
+    },
+    {
+      "Date": "Feb 14, 2021",
+      "Source / Medium": "Google",
+      "Revenue": "279"
+    },
+    {
+      "Date": "Feb 15, 2021",
+      "Source / Medium": "Bing",
+      "Revenue": "135"
+    },
+    {
+      "Date": "Feb 15, 2021",
+      "Source / Medium": "Facebook",
+      "Revenue": "152"
+    },
+    {
+      "Date": "Feb 15, 2021",
+      "Source / Medium": "LinkedIn",
+      "Revenue": "250"
+    },
+    {
+      "Date": "Feb 15, 2021",
+      "Source / Medium": "Google",
+      "Revenue": "478"
+    },
+    {
+      "Date": "Feb 16, 2021",
+      "Source / Medium": "Bing",
+      "Revenue": "132"
+    },
+    {
+      "Date": "Feb 16, 2021",
+      "Source / Medium": "Facebook",
+      "Revenue": "145"
+    },
+    {
+      "Date": "Feb 16, 2021",
+      "Source / Medium": "LinkedIn",
+      "Revenue": "242"
+    },
+    {
+      "Date": "Feb 16, 2021",
+      "Source / Medium": "Google",
+      "Revenue": "510"
+    },
+    {
+      "Date": "Feb 17, 2021",
+      "Source / Medium": "Bing",
+      "Revenue": "119"
+    },
+    {
+      "Date": "Feb 17, 2021",
+      "Source / Medium": "Facebook",
+      "Revenue": "142"
+    },
+    {
+      "Date": "Feb 17, 2021",
+      "Source / Medium": "LinkedIn",
+      "Revenue": "266"
+    },
+    {
+      "Date": "Feb 17, 2021",
+      "Source / Medium": "Google",
+      "Revenue": "450"
+    },
+    {
+      "Date": "Feb 18, 2021",
+      "Source / Medium": "Bing",
+      "Revenue": "130"
+    },
+    {
+      "Date": "Feb 18, 2021",
+      "Source / Medium": "Facebook",
+      "Revenue": "138"
+    },
+    {
+      "Date": "Feb 18, 2021",
+      "Source / Medium": "LinkedIn",
+      "Revenue": "259"
+    },
+    {
+      "Date": "Feb 18, 2021",
+      "Source / Medium": "Google",
+      "Revenue": "477"
+    },
+    {
+      "Date": "Feb 19, 2021",
+      "Source / Medium": "Bing",
+      "Revenue": "106"
+    },
+    {
+      "Date": "Feb 19, 2021",
+      "Source / Medium": "Facebook",
+      "Revenue": "140"
+    },
+    {
+      "Date": "Feb 19, 2021",
+      "Source / Medium": "LinkedIn",
+      "Revenue": "232"
+    },
+    {
+      "Date": "Feb 19, 2021",
+      "Source / Medium": "Google",
+      "Revenue": "386"
+    },
+    {
+      "Date": "Feb 20, 2021",
+      "Source / Medium": "Bing",
+      "Revenue": "129"
+    },
+    {
+      "Date": "Feb 20, 2021",
+      "Source / Medium": "Facebook",
+      "Revenue": "131"
+    },
+    {
+      "Date": "Feb 20, 2021",
+      "Source / Medium": "LinkedIn",
+      "Revenue": "151"
+    },
+    {
+      "Date": "Feb 20, 2021",
+      "Source / Medium": "Google",
+      "Revenue": "270"
+    },
+    {
+      "Date": "Feb 21, 2021",
+      "Source / Medium": "Bing",
+      "Revenue": "144"
+    },
+    {
+      "Date": "Feb 21, 2021",
+      "Source / Medium": "Facebook",
+      "Revenue": "118"
+    },
+    {
+      "Date": "Feb 21, 2021",
+      "Source / Medium": "LinkedIn",
+      "Revenue": "169"
+    },
+    {
+      "Date": "Feb 21, 2021",
+      "Source / Medium": "Google",
+      "Revenue": "300"
+    },
+    {
+      "Date": "Feb 22, 2021",
+      "Source / Medium": "Bing",
+      "Revenue": "141"
+    },
+    {
+      "Date": "Feb 22, 2021",
+      "Source / Medium": "Facebook",
+      "Revenue": "150"
+    },
+    {
+      "Date": "Feb 22, 2021",
+      "Source / Medium": "LinkedIn",
+      "Revenue": "280"
+    },
+    {
+      "Date": "Feb 22, 2021",
+      "Source / Medium": "Google",
+      "Revenue": "455"
+    },
+    {
+      "Date": "Feb 23, 2021",
+      "Source / Medium": "Bing",
+      "Revenue": "187"
+    },
+    {
+      "Date": "Feb 23, 2021",
+      "Source / Medium": "Facebook",
+      "Revenue": "120"
+    },
+    {
+      "Date": "Feb 23, 2021",
+      "Source / Medium": "LinkedIn",
+      "Revenue": "413"
+    },
+    {
+      "Date": "Feb 23, 2021",
+      "Source / Medium": "Google",
+      "Revenue": "482"
+    },
+    {
+      "Date": "Feb 24, 2021",
+      "Source / Medium": "Bing",
+      "Revenue": "150"
+    },
+    {
+      "Date": "Feb 24, 2021",
+      "Source / Medium": "Facebook",
+      "Revenue": "146"
+    },
+    {
+      "Date": "Feb 24, 2021",
+      "Source / Medium": "LinkedIn",
+      "Revenue": "320"
+    },
+    {
+      "Date": "Feb 24, 2021",
+      "Source / Medium": "Google",
+      "Revenue": "447"
+    },
+    {
+      "Date": "Feb 25, 2021",
+      "Source / Medium": "Bing",
+      "Revenue": "116"
+    },
+    {
+      "Date": "Feb 25, 2021",
+      "Source / Medium": "Facebook",
+      "Revenue": "157"
+    },
+    {
+      "Date": "Feb 25, 2021",
+      "Source / Medium": "LinkedIn",
+      "Revenue": "420"
+    },
+    {
+      "Date": "Feb 25, 2021",
+      "Source / Medium": "Google",
+      "Revenue": "469"
+    },
+    {
+      "Date": "Feb 26, 2021",
+      "Source / Medium": "Bing",
+      "Revenue": "129"
+    },
+    {
+      "Date": "Feb 26, 2021",
+      "Source / Medium": "Facebook",
+      "Revenue": "134"
+    },
+    {
+      "Date": "Feb 26, 2021",
+      "Source / Medium": "LinkedIn",
+      "Revenue": "331"
+    },
+    {
+      "Date": "Feb 26, 2021",
+      "Source / Medium": "Google",
+      "Revenue": "414"
+    },
+    {
+      "Date": "Feb 27, 2021",
+      "Source / Medium": "Bing",
+      "Revenue": "100"
+    },
+    {
+      "Date": "Feb 27, 2021",
+      "Source / Medium": "Facebook",
+      "Revenue": "115"
+    },
+    {
+      "Date": "Feb 27, 2021",
+      "Source / Medium": "LinkedIn",
+      "Revenue": "242"
+    },
+    {
+      "Date": "Feb 27, 2021",
+      "Source / Medium": "Google",
+      "Revenue": "325"
+    }
+  ],
+  "Orders": [
+    {
+      "Date": "Feb 14, 2021",
+      "Source / Medium": "Bing",
+      "Orders": "6"
+    },
+    {
+      "Date": "Feb 14, 2021",
+      "Source / Medium": "Facebook",
+      "Orders": "7"
+    },
+    {
+      "Date": "Feb 14, 2021",
+      "Source / Medium": "Google",
+      "Orders": "9"
+    },
+    {
+      "Date": "Feb 14, 2021",
+      "Source / Medium": "LinkedIn",
+      "Orders": "5"
+    },
+    {
+      "Date": "Feb 15, 2021",
+      "Source / Medium": "Bing",
+      "Orders": "8"
+    },
+    {
+      "Date": "Feb 15, 2021",
+      "Source / Medium": "Facebook",
+      "Orders": "10"
+    },
+    {
+      "Date": "Feb 15, 2021",
+      "Source / Medium": "Google",
+      "Orders": "17"
+    },
+    {
+      "Date": "Feb 15, 2021",
+      "Source / Medium": "LinkedIn",
+      "Orders": "6"
+    },
+    {
+      "Date": "Feb 16, 2021",
+      "Source / Medium": "Bing",
+      "Orders": "8"
+    },
+    {
+      "Date": "Feb 16, 2021",
+      "Source / Medium": "Facebook",
+      "Orders": "10"
+    },
+    {
+      "Date": "Feb 16, 2021",
+      "Source / Medium": "Google",
+      "Orders": "14"
+    },
+    {
+      "Date": "Feb 16, 2021",
+      "Source / Medium": "LinkedIn",
+      "Orders": "6"
+    },
+    {
+      "Date": "Feb 17, 2021",
+      "Source / Medium": "Bing",
+      "Orders": "8"
+    },
+    {
+      "Date": "Feb 17, 2021",
+      "Source / Medium": "Facebook",
+      "Orders": "11"
+    },
+    {
+      "Date": "Feb 17, 2021",
+      "Source / Medium": "Google",
+      "Orders": "17"
+    },
+    {
+      "Date": "Feb 17, 2021",
+      "Source / Medium": "LinkedIn",
+      "Orders": "8"
+    },
+    {
+      "Date": "Feb 18, 2021",
+      "Source / Medium": "Bing",
+      "Orders": "8"
+    },
+    {
+      "Date": "Feb 18, 2021",
+      "Source / Medium": "Facebook",
+      "Orders": "9"
+    },
+    {
+      "Date": "Feb 18, 2021",
+      "Source / Medium": "Google",
+      "Orders": "16"
+    },
+    {
+      "Date": "Feb 18, 2021",
+      "Source / Medium": "LinkedIn",
+      "Orders": "7"
+    },
+    {
+      "Date": "Feb 19, 2021",
+      "Source / Medium": "Bing",
+      "Orders": "7"
+    },
+    {
+      "Date": "Feb 19, 2021",
+      "Source / Medium": "Facebook",
+      "Orders": "8"
+    },
+    {
+      "Date": "Feb 19, 2021",
+      "Source / Medium": "Google",
+      "Orders": "17"
+    },
+    {
+      "Date": "Feb 19, 2021",
+      "Source / Medium": "LinkedIn",
+      "Orders": "6"
+    },
+    {
+      "Date": "Feb 20, 2021",
+      "Source / Medium": "Bing",
+      "Orders": "5"
+    },
+    {
+      "Date": "Feb 20, 2021",
+      "Source / Medium": "Facebook",
+      "Orders": "7"
+    },
+    {
+      "Date": "Feb 20, 2021",
+      "Source / Medium": "Google",
+      "Orders": "13"
+    },
+    {
+      "Date": "Feb 20, 2021",
+      "Source / Medium": "LinkedIn",
+      "Orders": "5"
+    },
+    {
+      "Date": "Feb 21, 2021",
+      "Source / Medium": "Bing",
+      "Orders": "6"
+    },
+    {
+      "Date": "Feb 21, 2021",
+      "Source / Medium": "Facebook",
+      "Orders": "7"
+    },
+    {
+      "Date": "Feb 21, 2021",
+      "Source / Medium": "Google",
+      "Orders": "13"
+    },
+    {
+      "Date": "Feb 21, 2021",
+      "Source / Medium": "LinkedIn",
+      "Orders": "6"
+    },
+    {
+      "Date": "Feb 22, 2021",
+      "Source / Medium": "Bing",
+      "Orders": "9"
+    },
+    {
+      "Date": "Feb 22, 2021",
+      "Source / Medium": "Facebook",
+      "Orders": "9"
+    },
+    {
+      "Date": "Feb 22, 2021",
+      "Source / Medium": "Google",
+      "Orders": "17"
+    },
+    {
+      "Date": "Feb 22, 2021",
+      "Source / Medium": "LinkedIn",
+      "Orders": "6"
+    },
+    {
+      "Date": "Feb 23, 2021",
+      "Source / Medium": "Bing",
+      "Orders": "8"
+    },
+    {
+      "Date": "Feb 23, 2021",
+      "Source / Medium": "Facebook",
+      "Orders": "9"
+    },
+    {
+      "Date": "Feb 23, 2021",
+      "Source / Medium": "Google",
+      "Orders": "16"
+    },
+    {
+      "Date": "Feb 23, 2021",
+      "Source / Medium": "LinkedIn",
+      "Orders": "6"
+    },
+    {
+      "Date": "Feb 24, 2021",
+      "Source / Medium": "Bing",
+      "Orders": "9"
+    },
+    {
+      "Date": "Feb 24, 2021",
+      "Source / Medium": "Facebook",
+      "Orders": "11"
+    },
+    {
+      "Date": "Feb 24, 2021",
+      "Source / Medium": "Google",
+      "Orders": "17"
+    },
+    {
+      "Date": "Feb 24, 2021",
+      "Source / Medium": "LinkedIn",
+      "Orders": "5"
+    },
+    {
+      "Date": "Feb 25, 2021",
+      "Source / Medium": "Bing",
+      "Orders": "9"
+    },
+    {
+      "Date": "Feb 25, 2021",
+      "Source / Medium": "Facebook",
+      "Orders": "10"
+    },
+    {
+      "Date": "Feb 25, 2021",
+      "Source / Medium": "Google",
+      "Orders": "17"
+    },
+    {
+      "Date": "Feb 25, 2021",
+      "Source / Medium": "LinkedIn",
+      "Orders": "5"
+    },
+    {
+      "Date": "Feb 26, 2021",
+      "Source / Medium": "Bing",
+      "Orders": "7"
+    },
+    {
+      "Date": "Feb 26, 2021",
+      "Source / Medium": "Facebook",
+      "Orders": "9"
+    },
+    {
+      "Date": "Feb 26, 2021",
+      "Source / Medium": "Google",
+      "Orders": "16"
+    },
+    {
+      "Date": "Feb 26, 2021",
+      "Source / Medium": "LinkedIn",
+      "Orders": "6"
+    },
+    {
+      "Date": "Feb 27, 2021",
+      "Source / Medium": "Bing",
+      "Orders": "5"
+    },
+    {
+      "Date": "Feb 27, 2021",
+      "Source / Medium": "Facebook",
+      "Orders": "7"
+    },
+    {
+      "Date": "Feb 27, 2021",
+      "Source / Medium": "Google",
+      "Orders": "11"
+    },
+    {
+      "Date": "Feb 27, 2021",
+      "Source / Medium": "LinkedIn",
+      "Orders": "5"
+    }
+  ],
+  "Leads": [
+    {
+      "Date": "Feb 14, 2021",
+      "Source / Medium": "LinkedIn",
+      "Leads": "5"
+    },
+    {
+      "Date": "Feb 14, 2021",
+      "Source / Medium": "Google",
+      "Leads": "22"
+    },
+    {
+      "Date": "Feb 14, 2021",
+      "Source / Medium": "Facebook",
+      "Leads": "16"
+    },
+    {
+      "Date": "Feb 14, 2021",
+      "Source / Medium": "Bing",
+      "Leads": "1"
+    },
+    {
+      "Date": "Feb 15, 2021",
+      "Source / Medium": "LinkedIn",
+      "Leads": "11"
+    },
+    {
+      "Date": "Feb 15, 2021",
+      "Source / Medium": "Google",
+      "Leads": "18"
+    },
+    {
+      "Date": "Feb 15, 2021",
+      "Source / Medium": "Facebook",
+      "Leads": "24"
+    },
+    {
+      "Date": "Feb 15, 2021",
+      "Source / Medium": "Bing",
+      "Leads": "2"
+    },
+    {
+      "Date": "Feb 16, 2021",
+      "Source / Medium": "LinkedIn",
+      "Leads": "12"
+    },
+    {
+      "Date": "Feb 16, 2021",
+      "Source / Medium": "Google",
+      "Leads": "25"
+    },
+    {
+      "Date": "Feb 16, 2021",
+      "Source / Medium": "Facebook",
+      "Leads": "34"
+    },
+    {
+      "Date": "Feb 16, 2021",
+      "Source / Medium": "Bing",
+      "Leads": "1"
+    },
+    {
+      "Date": "Feb 17, 2021",
+      "Source / Medium": "LinkedIn",
+      "Leads": "8"
+    },
+    {
+      "Date": "Feb 17, 2021",
+      "Source / Medium": "Google",
+      "Leads": "26"
+    },
+    {
+      "Date": "Feb 17, 2021",
+      "Source / Medium": "Facebook",
+      "Leads": "30"
+    },
+    {
+      "Date": "Feb 17, 2021",
+      "Source / Medium": "Bing",
+      "Leads": "2"
+    },
+    {
+      "Date": "Feb 18, 2021",
+      "Source / Medium": "LinkedIn",
+      "Leads": "14"
+    },
+    {
+      "Date": "Feb 18, 2021",
+      "Source / Medium": "Google",
+      "Leads": "19"
+    },
+    {
+      "Date": "Feb 18, 2021",
+      "Source / Medium": "Facebook",
+      "Leads": "27"
+    },
+    {
+      "Date": "Feb 18, 2021",
+      "Source / Medium": "Bing",
+      "Leads": "2"
+    },
+    {
+      "Date": "Feb 19, 2021",
+      "Source / Medium": "LinkedIn",
+      "Leads": "15"
+    },
+    {
+      "Date": "Feb 19, 2021",
+      "Source / Medium": "Google",
+      "Leads": "33"
+    },
+    {
+      "Date": "Feb 19, 2021",
+      "Source / Medium": "Facebook",
+      "Leads": "40"
+    },
+    {
+      "Date": "Feb 19, 2021",
+      "Source / Medium": "Bing",
+      "Leads": "5"
+    },
+    {
+      "Date": "Feb 20, 2021",
+      "Source / Medium": "LinkedIn",
+      "Leads": "3"
+    },
+    {
+      "Date": "Feb 20, 2021",
+      "Source / Medium": "Google",
+      "Leads": "35"
+    },
+    {
+      "Date": "Feb 20, 2021",
+      "Source / Medium": "Facebook",
+      "Leads": "27"
+    },
+    {
+      "Date": "Feb 20, 2021",
+      "Source / Medium": "Bing",
+      "Leads": "1"
+    },
+    {
+      "Date": "Feb 21, 2021",
+      "Source / Medium": "LinkedIn",
+      "Leads": "10"
+    },
+    {
+      "Date": "Feb 21, 2021",
+      "Source / Medium": "Google",
+      "Leads": "23"
+    },
+    {
+      "Date": "Feb 21, 2021",
+      "Source / Medium": "Facebook",
+      "Leads": "27"
+    },
+    {
+      "Date": "Feb 21, 2021",
+      "Source / Medium": "Bing",
+      "Leads": "1"
+    },
+    {
+      "Date": "Feb 22, 2021",
+      "Source / Medium": "LinkedIn",
+      "Leads": "11"
+    },
+    {
+      "Date": "Feb 22, 2021",
+      "Source / Medium": "Google",
+      "Leads": "19"
+    },
+    {
+      "Date": "Feb 22, 2021",
+      "Source / Medium": "Facebook",
+      "Leads": "39"
+    },
+    {
+      "Date": "Feb 22, 2021",
+      "Source / Medium": "Bing",
+      "Leads": "3"
+    },
+    {
+      "Date": "Feb 23, 2021",
+      "Source / Medium": "LinkedIn",
+      "Leads": "15"
+    },
+    {
+      "Date": "Feb 23, 2021",
+      "Source / Medium": "Google",
+      "Leads": "27"
+    },
+    {
+      "Date": "Feb 23, 2021",
+      "Source / Medium": "Facebook",
+      "Leads": "22"
+    },
+    {
+      "Date": "Feb 23, 2021",
+      "Source / Medium": "Bing",
+      "Leads": "4"
+    },
+    {
+      "Date": "Feb 24, 2021",
+      "Source / Medium": "LinkedIn",
+      "Leads": "5"
+    },
+    {
+      "Date": "Feb 24, 2021",
+      "Source / Medium": "Google",
+      "Leads": "36"
+    },
+    {
+      "Date": "Feb 24, 2021",
+      "Source / Medium": "Facebook",
+      "Leads": "38"
+    },
+    {
+      "Date": "Feb 24, 2021",
+      "Source / Medium": "Bing",
+      "Leads": "3"
+    },
+    {
+      "Date": "Feb 25, 2021",
+      "Source / Medium": "LinkedIn",
+      "Leads": "16"
+    },
+    {
+      "Date": "Feb 25, 2021",
+      "Source / Medium": "Google",
+      "Leads": "27"
+    },
+    {
+      "Date": "Feb 25, 2021",
+      "Source / Medium": "Facebook",
+      "Leads": "16"
+    },
+    {
+      "Date": "Feb 25, 2021",
+      "Source / Medium": "Bing",
+      "Leads": "4"
+    },
+    {
+      "Date": "Feb 26, 2021",
+      "Source / Medium": "LinkedIn",
+      "Leads": "7"
+    },
+    {
+      "Date": "Feb 26, 2021",
+      "Source / Medium": "Google",
+      "Leads": "29"
+    },
+    {
+      "Date": "Feb 26, 2021",
+      "Source / Medium": "Facebook",
+      "Leads": "31"
+    },
+    {
+      "Date": "Feb 26, 2021",
+      "Source / Medium": "Bing",
+      "Leads": "4"
+    },
+    {
+      "Date": "Feb 27, 2021",
+      "Source / Medium": "LinkedIn",
+      "Leads": "13"
+    },
+    {
+      "Date": "Feb 27, 2021",
+      "Source / Medium": "Google",
+      "Leads": "28"
+    },
+    {
+      "Date": "Feb 27, 2021",
+      "Source / Medium": "Facebook",
+      "Leads": "23"
+    },
+    {
+      "Date": "Feb 27, 2021",
+      "Source / Medium": "Bing",
+      "Leads": "5"
+    }
+  ],
+  "totalInfo": [
+    {
+      "Source": "Facebook",
+      "Users": "4681",
+      "Users%": "45%",
+      "Cost": "4205",
+      "Cost%": "37%",
+      "Orders": "25",
+      "Orders%": "24%",
+      "Leads": "394",
+      "Leads%": "42%",
+      "Revenue": "2950",
+      "Revenue%": "20%"
+    },
+    {
+      "Source": "Google",
+      "Users": "2392",
+      "Users%": "23%",
+      "Cost": "2746",
+      "Cost%": "25%",
+      "Orders": "41",
+      "Orders%": "39%",
+      "Leads": "367",
+      "Leads%": "39%",
+      "Revenue": "5652",
+      "Revenue%": "40%"
+    },
+    {
+      "Source": "LinkedIn",
+      "Users": "1872",
+      "Users%": "18%",
+      "Cost": "2597",
+      "Cost%": "23%",
+      "Orders": "17",
+      "Orders%": "17%",
+      "Leads": "145",
+      "Leads%": "15%",
+      "Revenue": "3244",
+      "Revenue%": "23%"
+    },
+    {
+      "Source": "Bing",
+      "Users": "1456",
+      "Users%": "14%",
+      "Cost": "1653",
+      "Cost%": "15%",
+      "Orders": "21",
+      "Orders%": "20%",
+      "Leads": "38",
+      "Leads%": "4%",
+      "Revenue": "2452",
+      "Revenue%": "17%"
+    },
+    {
+      "Source": "Total",
+      "Users": "10401",
+      "Users%": "100%",
+      "Cost": "11201",
+      "Cost%": "100%",
+      "Orders": "104",
+      "Orders%": "100%",
+      "Leads": "944",
+      "Leads%": "100%",
+      "Revenue": "14298",
+      "Revenue%": "100%"
+    }
+  ]
+}
