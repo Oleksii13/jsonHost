@@ -1,0 +1,435 @@
+{
+  "Sources": {
+    "Users": [
+      {
+        "Source": "Google",
+        "Conv": "11%",
+        "View": "3 505",
+        "Lead": "2 275",
+        "Init": "1 598",
+        "Trial": "386"
+      },
+      {
+        "Source": "Bing",
+        "Conv": "10%",
+        "View": "2 015",
+        "Lead": "1 312",
+        "Init": "814",
+        "Trial": "201"
+      },
+      {
+        "Source": "Facebook",
+        "Conv": "8%",
+        "View": "3 053",
+        "Lead": "1 438",
+        "Init": "1 002",
+        "Trial": "231"
+      },
+      {
+        "Source": "Taboola",
+        "Conv": "10%",
+        "View": "1 522",
+        "Lead": "1 324",
+        "Init": "652",
+        "Trial": "145"
+      },
+      {
+        "Source": "Criteo",
+        "Conv": "8%",
+        "View": "895",
+        "Lead": "719",
+        "Init": "333",
+        "Trial": "71"
+      },
+      {
+        "Source": "LinkedIn",
+        "Conv": "9%",
+        "View": "1 829",
+        "Lead": "784",
+        "Init": "699",
+        "Trial": "168"
+      },
+      {
+        "Source": "All",
+        "Conv": "9%",
+        "View": "12 819",
+        "Lead": "7 852",
+        "Init": "5 098",
+        "Trial": "1 202"
+      }
+    ],
+    "Relative": [
+      {
+        "Source": "Google",
+        "Conv": "11%",
+        "View": "100%",
+        "Lead": "65%",
+        "Init": "70%",
+        "Trial": "24%"
+      },
+      {
+        "Source": "Bing",
+        "Conv": "10%",
+        "View": "100%",
+        "Lead": "65%",
+        "Init": "62%",
+        "Trial": "25%"
+      },
+      {
+        "Source": "Facebook",
+        "Conv": "8%",
+        "View": "100%",
+        "Lead": "47%",
+        "Init": "70%",
+        "Trial": "23%"
+      },
+      {
+        "Source": "Taboola",
+        "Conv": "10%",
+        "View": "100%",
+        "Lead": "87%",
+        "Init": "49%",
+        "Trial": "22%"
+      },
+      {
+        "Source": "Criteo",
+        "Conv": "8%",
+        "View": "100%",
+        "Lead": "80%",
+        "Init": "46%",
+        "Trial": "21%"
+      },
+      {
+        "Source": "LinkedIn",
+        "Conv": "9%",
+        "View": "100%",
+        "Lead": "43%",
+        "Init": "89%",
+        "Trial": "24%"
+      },
+      {
+        "Source": "All",
+        "Conv": "9%",
+        "View": "100%",
+        "Lead": "61%",
+        "Init": "65%",
+        "Trial": "24%"
+      }
+    ],
+    "Absolute": [
+      {
+        "Source": "Google",
+        "Conv": "11%",
+        "View": "100%",
+        "Lead": "65%",
+        "Init": "46%",
+        "Trial": "11%"
+      },
+      {
+        "Source": "Bing",
+        "Conv": "10%",
+        "View": "100%",
+        "Lead": "65%",
+        "Init": "40%",
+        "Trial": "10%"
+      },
+      {
+        "Source": "Facebook",
+        "Conv": "8%",
+        "View": "100%",
+        "Lead": "47%",
+        "Init": "33%",
+        "Trial": "8%"
+      },
+      {
+        "Source": "Taboola",
+        "Conv": "10%",
+        "View": "100%",
+        "Lead": "87%",
+        "Init": "43%",
+        "Trial": "10%"
+      },
+      {
+        "Source": "Criteo",
+        "Conv": "8%",
+        "View": "100%",
+        "Lead": "80%",
+        "Init": "37%",
+        "Trial": "8%"
+      },
+      {
+        "Source": "LinkedIn",
+        "Conv": "9%",
+        "View": "100%",
+        "Lead": "43%",
+        "Init": "38%",
+        "Trial": "9%"
+      },
+      {
+        "Source": "All",
+        "Conv": "9%",
+        "View": "100%",
+        "Lead": "61%",
+        "Init": "40%",
+        "Trial": "9%"
+      }
+    ]
+  },
+
+  "Devices": {
+    "Users": [
+      {
+        "Source": "Desktop",
+        "Conv": "12%",
+        "View": "5 964",
+        "Lead": "5 035",
+        "Init": "2 910",
+        "Trial": "735"
+      },
+      {
+        "Source": "Mobile",
+        "Conv": "7%",
+        "View": "5 760",
+        "Lead": "2 301",
+        "Init": "1 745",
+        "Trial": "400"
+      },
+      {
+        "Source": "Tablet",
+        "Conv": "6%",
+        "View": "1 095",
+        "Lead": "516",
+        "Init": "443",
+        "Trial": "67"
+      },
+      {
+        "Source": "All",
+        "Conv": "9%",
+        "View": "12 819",
+        "Lead": "7 852",
+        "Init": "5 098",
+        "Trial": "1 202"
+      }
+    ],
+    "Relative": [
+      {
+        "Source": "Desktop",
+        "Conv": "12%",
+        "View": "100%",
+        "Lead": "84%",
+        "Init": "58%",
+        "Trial": "25%"
+      },
+      {
+        "Source": "Mobile",
+        "Conv": "7%",
+        "View": "100%",
+        "Lead": "40%",
+        "Init": "76%",
+        "Trial": "23%"
+      },
+      {
+        "Source": "Tablet",
+        "Conv": "6%",
+        "View": "100%",
+        "Lead": "47%",
+        "Init": "86%",
+        "Trial": "15%"
+      },
+      {
+        "Source": "All",
+        "Conv": "9%",
+        "View": "100%",
+        "Lead": "61%",
+        "Init": "65%",
+        "Trial": "24%"
+      }
+    ],
+    "Absolute": [
+      {
+        "Source": "Desktop",
+        "Conv": "12%",
+        "View": "100%",
+        "Lead": "84%",
+        "Init": "49%",
+        "Trial": "12%"
+      },
+      {
+        "Source": "Mobile",
+        "Conv": "7%",
+        "View": "100%",
+        "Lead": "40%",
+        "Init": "30%",
+        "Trial": "7%"
+      },
+      {
+        "Source": "Tablet",
+        "Conv": "6%",
+        "View": "100%",
+        "Lead": "47%",
+        "Init": "40%",
+        "Trial": "6%"
+      },
+      {
+        "Source": "All",
+        "Conv": "9%",
+        "View": "100%",
+        "Lead": "61%",
+        "Init": "40%",
+        "Trial": "9%"
+      }
+    ]
+  },
+  "Countries": {
+    "Users": [
+      {
+        "Source": "United States",
+        "Conv": "10%",
+        "View": "8 717",
+        "Lead": "5 631",
+        "Init": "3 597",
+        "Trial": "849"
+      },
+      {
+        "Source": "United Kingdom",
+        "Conv": "8%",
+        "View": "2 179",
+        "Lead": "1 331",
+        "Init": "865",
+        "Trial": "182"
+      },
+      {
+        "Source": "India",
+        "Conv": "3%",
+        "View": "897",
+        "Lead": "310",
+        "Init": "270",
+        "Trial": "29"
+      },
+      {
+        "Source": "Russia",
+        "Conv": "7%",
+        "View": "641",
+        "Lead": "259",
+        "Init": "195",
+        "Trial": "48"
+      },
+      {
+        "Source": "Sweden",
+        "Conv": "25%",
+        "View": "385",
+        "Lead": "321",
+        "Init": "171",
+        "Trial": "95"
+      },
+      {
+        "Source": "All",
+        "Conv": "9%",
+        "View": "12 819",
+        "Lead": "7 852",
+        "Init": "5 098",
+        "Trial": "1 202"
+      }
+    ],
+    "Relative": [
+      {
+        "Source": "United States",
+        "Conv": "10%",
+        "View": "100%",
+        "Lead": "65%",
+        "Init": "64%",
+        "Trial": "24%"
+      },
+      {
+        "Source": "United Kingdom",
+        "Conv": "8%",
+        "View": "100%",
+        "Lead": "61%",
+        "Init": "65%",
+        "Trial": "21%"
+      },
+      {
+        "Source": "India",
+        "Conv": "3%",
+        "View": "100%",
+        "Lead": "35%",
+        "Init": "87%",
+        "Trial": "11%"
+      },
+      {
+        "Source": "Russia",
+        "Conv": "7%",
+        "View": "100%",
+        "Lead": "40%",
+        "Init": "75%",
+        "Trial": "24%"
+      },
+      {
+        "Source": "Sweden",
+        "Conv": "25%",
+        "View": "100%",
+        "Lead": "83%",
+        "Init": "53%",
+        "Trial": "56%"
+      },
+      {
+        "Source": "All",
+        "Conv": "9%",
+        "View": "100%",
+        "Lead": "61%",
+        "Init": "65%",
+        "Trial": "24%"
+      }
+    ],
+    "Absolute": [
+      {
+        "Source": "United States",
+        "Conv": "10%",
+        "View": "100%",
+        "Lead": "65%",
+        "Init": "41%",
+        "Trial": "10%"
+      },
+      {
+        "Source": "United Kingdom",
+        "Conv": "8%",
+        "View": "100%",
+        "Lead": "61%",
+        "Init": "40%",
+        "Trial": "8%"
+      },
+      {
+        "Source": "India",
+        "Conv": "3%",
+        "View": "100%",
+        "Lead": "35%",
+        "Init": "30%",
+        "Trial": "3%"
+      },
+      {
+        "Source": "Russia",
+        "Conv": "7%",
+        "View": "100%",
+        "Lead": "40%",
+        "Init": "30%",
+        "Trial": "7%"
+      },
+      {
+        "Source": "Sweden",
+        "Conv": "25%",
+        "View": "100%",
+        "Lead": "83%",
+        "Init": "44%",
+        "Trial": "25%"
+      },
+      {
+        "Source": "All",
+        "Conv": "9%",
+        "View": "100%",
+        "Lead": "61%",
+        "Init": "40%",
+        "Trial": "9%"
+      }
+    ]
+  }
+}
